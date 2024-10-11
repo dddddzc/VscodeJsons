@@ -1,0 +1,5 @@
+CompileFlags:
+  Add: [
+    -xc++, -std=c++17, -Wall, -Wno-missing-prototypes,
+    "-IE:\\Visual Studio\\VC\\Tools\\MSVC\\14.41.34120\\include" 
+  ]
